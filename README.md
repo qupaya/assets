@@ -1,0 +1,1 @@
+![](logo/logo-full.svg)
